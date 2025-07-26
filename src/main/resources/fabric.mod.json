@@ -3,13 +3,13 @@
 	"id": "moblist",
 	"version": "${version}",
 	"name": "MobList",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A mod that displays a list of mobs on screen, as well as how many there are.",
 	"authors": [
-		"Me!"
+		"SuperPep"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/PepGames/MobList"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/moblist/icon.png",
